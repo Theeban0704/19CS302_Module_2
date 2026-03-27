@@ -17,8 +17,8 @@ To write a C Program to print the string "KEYBOARD" n number of times.
 ## Program:
 ```/*
 Program to print the string "KEYBOARD" n number of times.
-Developed by: SARATH KUMAR.K
-RegisterNumber: 212222063014
+Developed by: THEEBAN S
+RegisterNumber: 212222063015
 */
 #include<stdio.h> 
 int main() 
